@@ -25,3 +25,4 @@ Multiple hosts or IPs may be added as a list:
       ssh_known_hosts:
       - git.example.com
       - 111.22.33.44
+      - 2a01:4f8:161:9025::fd8b
